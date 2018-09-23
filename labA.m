@@ -17,6 +17,7 @@ bm = 0;
 Ke = 0.444;
 Kt = 0.470;
 
+
 %%% Substitutions
 Km = Ke*Kt/Rm+bf;
 I_eq = Ib+lb^2*mb;
